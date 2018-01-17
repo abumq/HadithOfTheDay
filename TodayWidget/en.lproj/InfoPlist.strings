@@ -1,0 +1,4 @@
+/* Display name and description for this extension. */
+"CFBundleDisplayName" = "Hadith of the Day";
+"com.apple.notificationcenter.widget.description" = "Reminders for believers from hadith of Prophet ﷺ";
+
